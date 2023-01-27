@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "pitchy",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/saschasalles/Pitchy",
+      "state" : {
+        "revision" : "f9d615f9f8b2bd6ff7f29f934d0d172d21385348",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
